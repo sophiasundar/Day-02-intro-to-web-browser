@@ -1,1 +1,4 @@
 # Day-02-intro-to-web-browser
+2 task are provided:
+1)HTTP1.1 VERSUS HTTP2.
+2)OBJECTS AND ITS INTERNAL REPRESENTATION IN JAVASCRIPT.
